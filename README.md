@@ -16,4 +16,4 @@ In order to get the dataset, kindly fill the [[License Form]](https://github.com
 ## Citation
 Any work made public, whatever the form, based directly or indirectly on any part of this Dataset has to include the following reference:
 
-L. Kumarapu, S. R. Dubey, S. Mukherjee, P. Mohan, S. P. Vinnakoti, and S. Karthikeya, "WSD: Wild Selfie Dataset for Face Recognition in Selfie Images", arXiv preprint arXiv:2302.07245, 2023.
+L. Kumarapu, S. R. Dubey, S. Mukherjee, P. Mohan, S. P. Vinnakoti, and S. Karthikeya, "WSD: Wild Selfie Dataset for Face Recognition in Selfie Images", 8th International Conference on Computer Vision and Image Processing (CVIP), Nov 2023.
